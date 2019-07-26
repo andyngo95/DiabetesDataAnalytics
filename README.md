@@ -8,5 +8,5 @@ Data source: [Pima Indians Diabetes Database](https://archive.ics.uci.edu/ml/dat
 
 | Model                     | Normal        | Feacture selection  |
 | ------------------------- |:-------------:| -------------------:|
-| RandomForest              | 0.740         |  0.774              |
-| RandomForest (k-fold)     | 0.759         |  0.773              |
+| RandomForest              | 0.740         |  0.773              |
+| RandomForest (k-fold)     | 0.759         |  0.774              |
